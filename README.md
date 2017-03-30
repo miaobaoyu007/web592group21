@@ -1,3 +1,5 @@
+<body onload="init()" style="font-family:tahoma" topmargin="0" leftmargin="0" bgcolor="#ffffff" background="https://myc.dek-d.com/a/writer/pic/bg_writer2.gif" id="storydiv"><img src="http://i1359.photobucket.com/albums/q789/TOng_Kn_Tlp/E400E2E0E140_zps75114057.png" width="400" height="300" border="0" style="position: absolute;">
+
 # web592group21<br>
 ชื่อกลุ่ม rainbow<br>
 ##สมาชิกกลุ่ม<br>
