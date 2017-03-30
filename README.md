@@ -1,5 +1,3 @@
-
-
 <style type="text/css">body, a:hover {cursor: url(http://cur.cursors-4u.net/nature/nat-9/nat878.ani), url(http://cur.cursors-4u.net/nature/nat-9/nat878.png), progress !important;}</style><a href="http://www.cursors-4u.com/cursor/2011/01/15/black-rainbow-over-clouds.html" target="_blank" title="Black Rainbow Over Clouds"><img src="http://cursors-4u.com/cursor.png" border="0" alt="Black Rainbow Over Clouds" style="position:absolute; top: 0px; right: 0px;" /></a>
 # web592group21<br>
 ชื่อกลุ่ม rainbow<br>
