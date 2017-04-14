@@ -2,11 +2,6 @@
 <h1>หน้าเว็บแบบ 1 คอลัมน์ เลย์เอ้าท์ พร้อม HEADER และ FOOTER</h1>
 </div>
 <div id="contents">
-<p>ใส่ข้อมูลเองนะครับ<p>
-</div>
-<div id="footer">
-<h1>ส่วนของ Footer</h1>
-</div>
 # web592group21<br>
 ชื่อกลุ่ม rainbow<br>
 ##สมาชิกกลุ่ม<br>
