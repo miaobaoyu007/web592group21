@@ -1,5 +1,5 @@
 <div id="header">
-<h1>หน้าเว็บแบบ 1 คอลัมน์ เลย์เอ้าท์ พร้อม HEADER และ FOOTER</h1>
+<h1> งาน </h1>
 </div>
 <div id="contents">
 # web592group21<br>
