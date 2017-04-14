@@ -2,7 +2,7 @@
 <h1> งาน </h1>
 </div>
 <div id="contents">
-<body bgcolor = "##FF0000> ... </body>
+
 # web592group21<br>
 ชื่อกลุ่ม rainbow<br>
 ##สมาชิกกลุ่ม<br>
@@ -17,3 +17,4 @@
 [ภาควิชาวิทยาศาสตร์คอมพิวเตอร์](http://www.cs.kku.ac.th/)<br>
 [คณะวิทยาศาสตร์](http://www.sc.kku.ac.th/)<br>
 [มหาวิทยาลัยขอนแก่น](http://www.cs.kku.ac.th/)<br>
+<body bgcolor = "##FF0000> ... </body>
