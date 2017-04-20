@@ -17,4 +17,6 @@
 [ภาควิชาวิทยาศาสตร์คอมพิวเตอร์](http://www.cs.kku.ac.th/)<br>
 [คณะวิทยาศาสตร์](http://www.sc.kku.ac.th/)<br>
 [มหาวิทยาลัยขอนแก่น](http://www.cs.kku.ac.th/)<br>
-<body> background-color: yellow; </body>
+body { 
+    background: #00ff00 url("smiley.gif") no-repeat fixed center; 
+}
