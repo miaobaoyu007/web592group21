@@ -63,7 +63,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    	  <div class="content_top">
    		<div class="col-md-8 col1">
    		   <a href="#" class="b-link-stroke b-animate-go  thickbox">
-		   <img src="images/airmech.jpg" class="img-responsive" alt=""/><div class="b-wrapper2"><h2 class="b-animate b-from-left    b-delay03 ">AirMech</h2><p class="b-animate b-from-right    b-delay03 ">AirMech is fast paced Action RTS that can be played like Dota or Starcraft--you can battle on the ground or command from the skies!.</p></div></a>
+		   <img src="images/i.jpg" class="img-responsive" alt=""/><div class="b-wrapper2"><h2 class="b-animate b-from-left    b-delay03 ">AirMech</h2><p class="b-animate b-from-right    b-delay03 ">AirMech is fast paced Action RTS that can be played like Dota or Starcraft--you can battle on the ground or command from the skies!.</p></div></a>
         </div>	
    		<div class="col-md-4">
    		   <a href="#" class="b-link-stroke b-animate-go  thickbox">
@@ -95,118 +95,115 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    	</div>
    	<div class="content_middle_bottom">
    		<div class="header-left" id="home">
-		<h4 font size = 100>Coming Soon !!!</h4>
+		<center><h2>Upcoming Game !!!</h2>
 		      <section>
 				<ul class="lb-album" >
 					<li>
 						<a href="#image-1">
-							<img src="images/g1.jpg"  class="img-responsive" alt="image01"/>
-							<span>Resident evil 4</span>
+							<img src="images/cm1.jpg"  class="img-responsive" alt="image01"/>
+							<span>Upcoming !!!!!</span>
 						</a>
-						<div class="lb-overlay" id="image-1">
-							<a href="#page" class="lb-close">x Close</a>
-							<img src="images/g1.jpg"  class="img-responsive" alt="image01"/>
-							<div>
-								<h3>Resident evil4 <span>/Re4/</span></h3>
-								<p>In resident evil 4, special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President’s daughter who has been kidnapped. Finding his way to a rural village in Europe, he faces new threats that are a departure from the traditional lumbering zombie enemies of the earlier instalments in the series.</p>
-								<a href="">
-							</div>
-						</div>
+						
 					</li>
 					<li>
 						<a href="#image-2">
-							<img src="images/g2.jpg"  class="img-responsive" alt="image02"/>
-							<span>Port de bras</span>
+							<img src="images/disho.jpg"  class="img-responsive" alt="image02"/>
+							<span>Dishonored2</span>
 						</a>
 						<div class="lb-overlay" id="image-2">
-							<img src="images/g2.jpg"  class="img-responsive" alt="image02"/>
+							<img src="images/disho.jpg"  class="img-responsive" alt="image02"/>
 							<div>							
-								<h3>port de bras <span>/ˌpôr də ˈbrä/</span></h3>
-								<p>An exercise designed to develop graceful movement and disposition of the arms</p>
+								<h3>Dishonored2 <span>/DH2/</span></h3>
+								<p>Dishonored 2 - Free Trial Available Now!</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-3">
-							<img src="images/g3.jpg"  class="img-responsive" alt="image03"/>
-							<span>Plié</span>
+							<img src="images/ff.png"  class="img-responsive" alt="image03"/>
+							<span>Fantasy Farming: Orange Season</span>
 						</a>
 						<div class="lb-overlay" id="image-3">
-							<img src="images/g3.jpg"  class="img-responsive" alt="image03"/>
+							<img src="images/ff.png"  class="img-responsive" alt="image03"/>
 							<div>							
-								<h3>pli·é <span>/plēˈā/</span></h3>
-								<p>A movement in which a dancer bends the knees and straightens them again</p>
+								<h3>Fantasy Farming<span> Orange Season</span></h3>
+								<p>Available: 22 April</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-4">
-							<img src="images/g4.jpg"  class="img-responsive" alt="image04"/>
-							<span>Adagio</span>
+							<img src="images/cr.jpg"  class="img-responsive" alt="image04"/>
+							<span>Cadence</span>
 						</a>
 						<div class="lb-overlay" id="image-4">
-							<img src="images/g4.jpg"  class="img-responsive" alt="image04"/>
+							<img src="images/cr.jpg"  class="img-responsive" alt="image04"/>
 							<div>							
-								<h3>a·da·gio <span>/əˈdäjō/</span></h3>
-								<p>A movement or composition marked to be played adagio</p>
+								<h3>Cadence<span>/əˈdäjō/</span></h3>
+								<p>Early Access Game</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-5">
-							<img src="images/g5.jpg"  class="img-responsive" alt="image05"/>
-							<span>Frappé</span>
+							<img src="images/me.png"  class="img-responsive" alt="image05"/>
+							<span>Middle-earth: Shadow of War</span>
 						</a>
 						<div class="lb-overlay" id="image-5">
-							<img src="images/g5.jpg"  class="img-responsive" alt="image05"/>
+							<img src="images/me.png"  class="img-responsive" alt="image05"/>
 							<div>							
-								<h3>frap·pé<span>/fraˈpā/</span></h3>
-								<p>Involving a beating action of the toe of one foot against the ankle of the supporting leg</p>
+								<h3>Middle-earth: <span>Shadow of War</span></h3>
+								<p>Release Date: August 22, 2017
+</p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-6">
-							<img src="images/g6.jpg"  class="img-responsive" alt="image06"/>
-							<span>Glissade</span>
+							<img src="images/ol.jpg"  class="img-responsive" alt="image06"/>
+							<span>Outlast 2</span>
 						</a>
 						<div class="lb-overlay" id="image-6">
-							<img src="images/g6.jpg"  class="img-responsive" alt="image06"/>
+							<img src="images/ol.jpg"  class="img-responsive" alt="image06"/>
 							<div>							
-								<h3>glis·sade <span>/gliˈsäd/</span></h3>
-								<p>One leg is brushed outward from the body, which then takes the weight while the second leg is brushed in to meet it</p>
+								<h3><a href ="https://youtu.be/AwFPih9-bNM">Outlast 2 </a>
+								<span><a href="http://www.metacritic.com/company/red-barrels">Red Barrels </a></span></h3>
+								<p> Release Date: Apr 25, 2017 Also On: PC, Xbox One </p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-7">
-							<img src="images/g7.jpg"  class="img-responsive" alt="image07"/>
-							<span>Jeté</span>
+							<img src="images/sni.jpg"  class="img-responsive" alt="image07"/>
+							<span>Sniper: Ghost Warrior 3 </span>
 						</a>
 						<div class="lb-overlay" id="image-7">
-							<img src="images/g7.jpg"  class="img-responsive" alt="image07"/>
+							<img src="images/sni.jpg"  class="img-responsive" alt="image07"/>
 							<div>							
-								<h3>je·té <span>/zhə-ˈtā/</span></h3>
-								<p>A springing jump made from one foot to the other in any direction</p>
+								<h3>Sniper: Ghost Warrior 3 <span><a href="http://www.metacritic.com/company/city-interactive">City Interactive</a></span></h3>
+								<p> Release Date: Apr 25, 2017Also On: PlayStation 4, Xbox One </p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>
 					</li>
 					<li>
 						<a href="#image-8">
-							<img src="images/g8.jpg"  class="img-responsive" alt="image08"/>
-							<span>Piqué</span>
+							<img src="images/sy.jpg"  class="img-responsive" alt="image08"/>
+							<span>
+Syberia 3</span>
 						</a>
 						<div class="lb-overlay" id="image-8">
-							<img src="images/g8.jpg"  class="img-responsive" alt="image08"/>
+							<img src="images/sy.jpg"  class="img-responsive" alt="image08"/>
 							<div>							
-								<h3>pi·qué <span>/pēˈkā/</span></h3>
-								<p>Strongly pointed toe of the lifted and extended leg sharply lowers to hit the floor then immediately rebounds upward</p>
+								<h3>Syberia 3 <span>
+    Microids </span></h3>
+								<p> Release Date: Apr 25, 2017
+Also On: PC, Xbox One </p>
 							</div>
 							<a href="#page" class="lb-close">x Close</a>
 						</div>

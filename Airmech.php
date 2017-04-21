@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Icndy Bootstarp Website Template | Single :: w3layouts</title>
+<title>AirMech : Gameshop</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -56,7 +56,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="men_banner">
    	  <div class="container">
    		<div class="logo">
-			<a href="index.html"><img src="images/logo.png" alt=""/></a>
+			<a href="main.php"><img src="images/logo.png" alt=""/></a>
 		</div>
 	   <div class="menu">
 	     <ul class="megamenu skyblue">
@@ -106,8 +106,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				<p class="quick_desc"> AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit</p>
 			    <div class="wish-list">
 				 	<ul>
-				 		<li class="wish"><a href="#">Add to Wishlist</a></li>
-				 	    <li class="compare"><a href="#">Add to Compare</a></li>
+				 	    <li class="compare"><a href="https://youtu.be/lhpYR-iBvPU">Gameplay</a></li>
 				 	</ul>
 				 </div>
 				
@@ -127,7 +126,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<li><a href="#"><i class="fb1"> </i> </a></li>
 						<li><a href="#"><i class="tw1"> </i> </a></li>
 						<li><a href="#"><i class="g1"> </i> </a></li>
-						<li><a href="#"><i class="linked"> </i> </a></li>
+					
 		   		    </ul>
 		   		    <div class="clearfix"></div>
 	   		    </div>
@@ -194,32 +193,32 @@ Storage: 5 GB available space<br></td>
 		<div class="col-md-3">
 	      <h3 class="m_1">Related Products</h3>
 	      <ul class="product">
-	      	<li class="product_img"><img src="images/m5.jpg" class="img-responsive" alt=""/></li>
+	      	<li class="product_img"><img src="images/saint.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">quod mazim</a></h4>
-	      		<p class="single_price">$66.30</p>
+	      		<h4><a href="#">SaintRow4</a></h4>
+	      		<p class="single_price">$30</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
-	      	    <a href="#" class="link-cart">Add to Cart</a>
+	      	    
 	        </li>
 	      	<div class="clearfix"> </div>
 	      </ul>
 	      <ul class="product">
-	      	<li class="product_img"><img src="images/m6.jpg" class="img-responsive" alt=""/></li>
+	      	<li class="product_img"><img src="images/H1.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">quod mazim</a></h4>
-	      		<p class="single_price">$66.30</p>
+	      		<h4><a href="#">H1Z1</a></h4>
+	      		<p class="single_price">$18</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
-	      	    <a href="#" class="link-cart">Add to Cart</a>
+	      	    
 	        </li>
 	      	<div class="clearfix"> </div>
 	      </ul>
 	      <ul class="product">
-	      	<li class="product_img"><img src="images/m2.jpg" class="img-responsive" alt=""/></li>
+	      	<li class="product_img"><img src="images/how.png" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">quod mazim</a></h4>
-	      		<p class="single_price">$66.30</p>
+	      		<h4><a href="#">How to Survive</a></h4>
+	      		<p class="single_price">$15.99</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
-	      	    <a href="#" class="link-cart">Add to Cart</a>
+	      	    
 	        </li>
 	      	<div class="clearfix"> </div>
 	      </ul>
