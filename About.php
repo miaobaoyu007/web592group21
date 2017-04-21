@@ -29,7 +29,7 @@
 	<div class="banner">
    	  <div class="container">
    		<div class="logo">
-			<a href="main.php"><img src="images/logo.png" alt=""/></a>
+			<a href="index.html"><img src="images/logo.png" alt=""/></a>
 		</div>
 	   <div class="menu">
 	     <ul class="megamenu skyblue">
@@ -45,15 +45,15 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<br><h2 class="ser-title">Meet Our Adim!</h2>
+					<h2 class="ser-title">Meet Our Doctors!</h2>
 					<hr class="botm-line">
 				</div>
 				<div class="col-md-3 col-sm-3 col-xs-6">
 			      <div class="thumbnail"> 
-			      	<img src="img/phaka.jpg" alt="..." class="team-img">
+			      	<img src="img/doctor1.jpg" alt="..." class="team-img">
 			        <div class="caption">
-			          <h3>Phaka Thammakirati</h3>
-			          <p>Adim</p>
+			          <h3>Jessica Wally</h3>
+			          <p>Doctor</p>
 			          <ul class="list-inline">
 			            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 			            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -64,10 +64,10 @@
 			    </div>
 			    <div class="col-md-3 col-sm-3 col-xs-6">
 			      <div class="thumbnail"> 
-			      	<img src="img/thanavit.jpg" alt="..." class="team-img">
+			      	<img src="img/doctor2.jpg" alt="..." class="team-img">
 			        <div class="caption">
-			          <h3>Thanavit Arjhan</h3>
-			          <p>Adim</p>
+			          <h3>Iai Donas</h3>
+			          <p>Doctor</p>
 			          <ul class="list-inline">
 			            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 			            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -78,10 +78,10 @@
 			    </div>
 			    <div class="col-md-3 col-sm-3 col-xs-6">
 			      <div class="thumbnail"> 
-			      	<img src="img/miao.jpg" alt="..." class="team-img">
+			      	<img src="img/doctor3.jpg" alt="..." class="team-img">
 			        <div class="caption">
-			          <h3>Miao Baoyu</h3>
-			          <p>Adim</p>
+			          <h3>Amanda Denyl</h3>
+			          <p>Doctor</p>
 			          <ul class="list-inline">
 			            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 			            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -92,24 +92,10 @@
 			    </div>
 			    <div class="col-md-3 col-sm-3 col-xs-6">
 			      <div class="thumbnail"> 
-			      	<img src="img/dittawat.jpg" alt="..." class="team-img">
+			      	<img src="img/doctor4.jpg" alt="..." class="team-img">
 			        <div class="caption">
-			          <h3>Dittawat Kaewseehabut</h3>
-			          <p>Adim</p>
-			          <ul class="list-inline">
-			            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-			            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-			            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-			          </ul>
-			        </div>
-			      </div>
-			    </div>
-			    <div class="col-md-3 col-sm-3 col-xs-6">
-			      <div class="thumbnail"> 
-			      	<img src="img/thanet.jpg" alt="..." class="team-img">
-			        <div class="caption">
-			          <h3>Thanet Nakarat</h3>
-			          <p>Servant</p>
+			          <h3>Jason Davis</h3>
+			          <p>Doctor</p>
 			          <ul class="list-inline">
 			            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
 			            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
