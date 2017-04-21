@@ -39,48 +39,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    		<div class="logo">
 			<a href="main.php"><img src="images/logo2.jpg" alt=""/></a>
 		</div>
-	   <div class="menu">
+
+<div class="menu">
 	     <ul class="megamenu skyblue">
-<li><a class="color4" href="#">ประเภทเกม</a>
-				<div class="megapanel">
-					<div class="row">
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Men</h4>
-								<ul>
-									<li><a href="men.html">Jackets</a></li>
-									<li><a href="men.html">Blazers</a></li>
-									<li><a href="men.html">Suits</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">Shirts</a></li>
-									<li><a href="men.html">Sweatshirts & Hoodies</a></li>
-									<li><a href="men.html">Swem Wear</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						<div class="col1">
-							<div class="h_nav">
-								<h4>Women</h4>
-								<ul>
-									<li><a href="men.html">Outerwear</a></li>
-									<li><a href="men.html">Dresses</a></li>
-									<li><a href="men.html">Handbags</a></li>
-									<li><a href="men.html">Trousers</a></li>
-									<li><a href="men.html">Jeans</a></li>
-									<li><a href="men.html">T-Shirts</a></li>
-									<li><a href="men.html">Shoes</a></li>
-									<li><a href="men.html">Coats</a></li>
-									<li><a href="men.html">Accessories</a></li>
-								</ul>	
-							</div>							
-						</div>
-						
-					  </div>
-					</div>
-				</li>				
-				<li class="active grid"><a class="color3" href="index.html">Sale</a></li>
+			<li class="active grid"><a class="color2" href="men.html">SHOP</a>
+				
+			</li>		
+			
+				<li class="active grid"><a class="color3" href="Sale.php">Sale</a></li>
 				<li><a class="color7" href="404.html">News</a></li>
 				<div class="clearfix"> </div>
 			</ul>
@@ -129,6 +95,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
    	</div>
    	<div class="content_middle_bottom">
    		<div class="header-left" id="home">
+		<h4 font size = 100>Coming Soon !!!</h4>
 		      <section>
 				<ul class="lb-album" >
 					<li>
@@ -142,6 +109,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div>
 								<h3>Resident evil4 <span>/Re4/</span></h3>
 								<p>In resident evil 4, special agent Leon S. Kennedy is sent on a mission to rescue the U.S. President’s daughter who has been kidnapped. Finding his way to a rural village in Europe, he faces new threats that are a departure from the traditional lumbering zombie enemies of the earlier instalments in the series.</p>
+								<a href="">
 							</div>
 						</div>
 					</li>
@@ -269,6 +237,13 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<li><a href=""><i class="fb"> </i> </a></li>
 			<li><a href=""><i class="tw"> </i> </a></li>
 	    </ul>
+	<div class="container" id="login">
+		<div class="row">
+			<div class="col-md-4 col-sm-offset-4">
+		<div class='panel panel-default'><div class='panel-heading'>Login</div><div class='panel-body'><a href='/_ah/login?continue=http%3A//localhost%3A19485/main.php'>Login</a></div></div>		
+		</div>
+	</div>
+</div> 
 	    <div class="clearfix"></div>
 	    <div class="copy">
            <p>&copy; Template by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>

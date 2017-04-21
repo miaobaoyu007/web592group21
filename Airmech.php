@@ -76,45 +76,41 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			<ul id="etalage">
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="images/s1.jpg" class="img-responsive" />
-									<img class="etalage_source_image" src="images/s2.jpg" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="airmech/air1.png" class="img-responsive" />
+									<img class="etalage_source_image" src="airmech/air1.png" class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="images/s2.jpg" class="img-responsive" />
-								<img class="etalage_source_image" src="images/s2.jpg" class="img-responsive" title="" />
+								<img class="etalage_thumb_image" src="airmech/air2.png" class="img-responsive" />
+								<img class="etalage_source_image" src="airmech/air2.png" class="img-responsive" title="" />
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="images/s3.jpg" class="img-responsive"  />
-								<img class="etalage_source_image" src="images/s3.jpg"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="airmech/air3.png" class="img-responsive"  />
+								<img class="etalage_source_image" src="airmech/air3.png"class="img-responsive"  />
 							</li>
 						    <li>
-								<img class="etalage_thumb_image" src="images/s4.jpg" class="img-responsive"  />
-								<img class="etalage_source_image" src="images/s4.jpg"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="airmech/air4.png" class="img-responsive"  />
+								<img class="etalage_source_image" src="airmech/air4.png"class="img-responsive"  />
 							</li>
 			 </ul>
 		     <div class="clearfix"></div>	
 	    </div>
 		<div class="cont1 span_2_of_a1">
-				<h1>Duis autem</h1>
+				<h1>Airmech</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
-				  <span class="reducedfrom">$140.00</span>
-				  <span class="actual">$120.00</span><a href="#">click for offer</a>
+				  
+				  <span class="actual">$16.00</span><a href="#">click for offer</a>
 				</div>
-				<h2 class="quick">Quick Overview:</h2>
-				<p class="quick_desc"> Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; es</p>
+				<h2 class="quick">About :</h2>
+				<p class="quick_desc"> AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit</p>
 			    <div class="wish-list">
 				 	<ul>
 				 		<li class="wish"><a href="#">Add to Wishlist</a></li>
 				 	    <li class="compare"><a href="#">Add to Compare</a></li>
 				 	</ul>
 				 </div>
-				<ul class="size">
-					<h3>Length</h3>
-					<li><a href="#">32</a></li>
-					<li><a href="#">34</a></li>
-				</ul>
+				
 				<div class="quantity_box">
 					<ul class="product-qty">
 					   <span>Quantity:</span>
@@ -143,7 +139,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 				     <div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
 						  <ul class="resp-tabs-list">
 						  	  <li class="resp-tab-item" aria-controls="tab_item-0" role="tab"><span>Product Description</span></li>
-							  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>Additional Information</span></li>
+							  <li class="resp-tab-item" aria-controls="tab_item-1" role="tab"><span>SYSTEM REQUIREMENTS</span></li>
 							  <li class="resp-tab-item" aria-controls="tab_item-2" role="tab"><span>Reviews</span></li>
 							  <div class="clear"></div>
 						  </ul>				  	 
@@ -151,28 +147,44 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							    <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 									<div class="facts">
 									  <ul class="tab_list">
-									  	<li><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</a></li>
-									  	<li><a href="#">augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigatione</a></li>
-									  	<li><a href="#">claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica</a></li>
-									  	<li><a href="#">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</a></li>
+									  	<li>AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit, or grab the stick and pilot your AirMech directly. Play Solo, Co-Op, or PVP with dozens of 'Mechs, customizable armies, and unlockable vanity items. </li>
+									  	<li>Every map is a new challenge, whether running missions to unlock new 'Mechs, or battling your friends. Capture bases to take more ground. Build tanks, turrets, and soldiers then grab and deploy them with cutting edge hand controls that make RTS gameplay smoother than ever. With Vive room-space, you're right in the middle of the action.</li>
+									 <h2><li> Key Features:</h2>
+									  	<li>Unlock more than 50 unique AirMechs, each with flight and ground combat modesToggle between tactical strategy controls and ground-level flight controls instantly Solo, PVP, and Co-Op play on any map Room space and hand-controlled camera controls make put you in command Customize your army loadout with dozens of different tanks, jeeps, turrets, soldiers, fliers and boosts</li>
 									  </ul>           
 							        </div>
 							     </div>	
 							      <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
 									<div class="facts">
 									  <ul class="tab_list">
-									    <li><a href="#">augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigatione</a></li>
-									  	<li><a href="#">claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum. Mirum est notare quam littera gothica</a></li>
-									  	<li><a href="#">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</a></li>
-									  </ul>           
+									  								<table>
+									<tr>
+									  	 <th>MINIMUM:</th>
+    <th>RECOMMENDED:</th>
+  </tr>
+  <tr>
+    <td>OS: Windows 7 64-bit<br>
+Processor: i5 or better<br>
+Memory: 8 GB RAM<br>
+Graphics: Nvidia GTX970<br>
+DirectX: Version 11<br>
+Network: Broadband Internet connection<br>
+Storage: 2 GB available space<br></td>
+    <td>OS: Windows 10 64-bit<br>
+Processor: i7 or better<br>
+Memory: 16 GB RAM<br>
+Graphics: Nvidia GTX 1070<br>
+DirectX: Version 11<br>
+Network: Broadband Internet connection<br>
+Storage: 5 GB available space<br></td>
+  </tr>
+</table>
+</ul>
 							        </div>
 							     </div>	
 							      <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 									<ul class="tab_list">
-									  	<li><a href="#">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat</a></li>
-									  	<li><a href="#">augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigatione</a></li>
-									  	<li><a href="#">claritatem insitam; est usus legentis in iis qui facit eorum claritatem. Investigationes demonstraverunt lectores leg</a></li>
-									  	<li><a href="#">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum.</a></li>
+	
 									  </ul>      
 							     </div>	
 							 </div>
