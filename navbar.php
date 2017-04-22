@@ -13,11 +13,12 @@
 			<a href="main.php"><img src="images/logo2.jpg" alt=""/></a>-->
 		</div>
     </div>
+<a href="main.php "><img src="images/ss.png"></a>
 
 	<div class="menu">
 	     <ul class="megamenu skyblue">
 		 <li class="active grid"><a class="color2" href="login1.php">login</a>
-			<li class="active grid"><a class="color2" href="men.html">SHOP</a>
+			<li class="active grid"><a class="color2" href="Shop.html">SHOP</a>
 				
 			</li>		
 			

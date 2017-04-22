@@ -97,7 +97,8 @@
   </a>
 </div>
 <!-- end -->
-<?php panel_include("User","login.php"); ?> 
+
+<table><center><h1>Recommend!!</h1></center>
 		</div>
 	</div>
 </div>
