@@ -1,15 +1,17 @@
-﻿<?php
-// ส่วนตั้งค่ำ เรียกใช้งำน UserService ของ Google
-use google\appengine\api\users\User;
-use google\appengine\api\users\UserService;
-global $user;
-$user = UserService::getCurrentUser();
-if($user){
-$url = UserService::createLogoutUrl('/main.php');
-echo "Login as <br>".$user->getNickname();
-echo "<br><a href='$url'>Logout</a>";
-}else{
-$url = UserService::createLoginUrl('/main.php');
-echo "<a href='$url'>Login or Register</a>";
-}
+<?php
+session_start (); 
+$pdo = new PDO("mysql:host=localhost;dbname=shop", "root" );
+$pdo->setAttribute( PDO:: ATTR_ERRMODE , PDO:: ERRMODE_EXCEPTION );
+$pdo->exec ( "SET NAMES \"utf8\"" );
+
+$stmt = $pdo->prepare("SELECT * FROM register WHERE username = ? AND password = ?"); 
+$stmt->bindValue(1, $_POST["username"]); 
+$stmt->bindValue(2, $_POST["password"]); 
+$stmt->execute(); $row = $stmt->fetch();
+
+if ($row) {
+$_SESSION["username"] = $row["username"]; 
+header ( "location: index2.php " );
+} else { 
+header ( "location: login.php?error = 1 " ); }
 ?>
