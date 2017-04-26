@@ -1,10 +1,20 @@
-<!--A Design by W3layouts
-Author: W3layout
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>   
+<?php   $appid = "web592group21.appspot.com"; 
+ $page  = $_GET['p'];  
+ if($page=='') $page='main';  
+ $title = $page;   
+ function panel_include($title,$file,$ptype='default'){ 
+ echo "<div class='panel panel-$ptype'>"; 
+ echo "<div class='panel-heading'>$title</div>";  
+ echo "<div class='panel-body'>";  
+ if(file_exists($file)){  
+ include($file); 
+ }else{  
+ echo "ไมพ่บไฟล ์ $file "; 
+ }  echo "</div>"; 
+ echo "</div>"; 
+ }
+ ?>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=TIS-620" />
@@ -22,6 +32,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <script type="text/javascript" src="js/hover_pack.js"></script>
 <!-- start menu -->
 <link href="css/megamenu.css" rel="stylesheet" type="text/css" media="all" />
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  
+ <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+ <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script> 
+ <!--ajax-->
 <script type="text/javascript" src="js/megamenu.js"></script>
 <script>$(document).ready(function(){$(".megamenu").megamenu();});</script>
 <script type="text/javascript">
@@ -33,30 +47,61 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					});
 </script>
 </head>
+<?php include("navbar.php"); ?>
+</div>
 <body>
-	<div class="banner">
-   	  <div class="container">
-   		<div class="logo">
-			<a href="main.php"><img src="images/logo2.jpg" alt=""/></a>
-		</div>
 
-<div class="menu">
-	     <ul class="megamenu skyblue">
-			<li class="active grid"><a class="color2" href="men.html">SHOP</a>
-				
-			</li>		
-			
-				<li class="active grid"><a class="color3" href="Sale.php">Sale</a></li>
-				<li><a class="color7" href="404.html">News</a></li>
-				<div class="clearfix"> </div>
-			</ul>
-			</div>
-	        <div class="clearfix"> </div>
-	        <div class="header_arrow">
-	          <a href="#arrow" class="scroll"><span> </span></a>
-	        </div>
-       </div>
-   </div>
+<!-- slide -->
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+	<li data-target="#carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="images/tr.jpg" alt="..." width="100%">
+      <div class="carousel-caption">
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/dota.jpg" alt="..." width="100%">
+      <div class="carousel-caption">
+      </div>
+    </div>
+	<div class="item">
+      <img src="images/s3.png" alt="..." width="100%">
+      <div class="carousel-caption">
+      </div>
+    </div>
+	<div class="item">
+      <img src="images/s4.png" alt="..." width="100%">
+      <div class="carousel-caption">
+      </div>
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<!-- end -->
+
+<table><center><h1>Recommend!!</h1></center>
+		</div>
+	</div>
+</div>
+
    <div class="main">
     <div class="container">
      <div class="top_grid" id="arrow">
@@ -234,10 +279,7 @@ Also On: PC, Xbox One </p>
 			<li><a href=""><i class="fb"> </i> </a></li>
 			<li><a href=""><i class="tw"> </i> </a></li>
 	    </ul>
-	<div class="container" id="login">
-		<div class="row">
-			<div class="col-md-4 col-sm-offset-4">
-		<div class='panel panel-default'><div class='panel-heading'>Login</div><div class='panel-body'><a href='/_ah/login?continue=http%3A//localhost%3A19485/main.php'>Login</a></div></div>		
+		
 		</div>
 	</div>
 </div> 
@@ -247,5 +289,9 @@ Also On: PC, Xbox One </p>
 	    </div>
    	</div>
    </div>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
 </body>
 </html>		

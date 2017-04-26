@@ -23,7 +23,7 @@
 			</li>		
 			
 				<li class="active grid"><a class="color3" href="Sale.php">Sale</a></li>
-				<li><a class="color7" href="404.html">News</a></li>
+				<li><a class="color7" href="register.php">News</a></li>
 				<div class="clearfix"> </div>
 			</ul>
 			</div>
