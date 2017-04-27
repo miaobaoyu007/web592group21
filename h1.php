@@ -29,7 +29,7 @@ function userpic($uid){
 ?>
 <html>
 <head>
-<title>AirMech : Gameshop</title>
+<title>H1Z1 : Just Survive : Gameshop</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -75,13 +75,14 @@ function userpic($uid){
             </script>	
 </head>
 <body>
-		<div class="men_banner">
+
+	<div class="men_banner">
    	  <div class="container">
    		<div class="logo">
 			<a href="main.php"><img src="images/ss.png" alt=""/></a>
 		</div>
 	  
-	    <div class="menu">
+  <div class="menu">
 	     <ul class="megamenu skyblue">
 			<li><a class="color2" href="shop.html">Shop</a>
 		<div class="megapanel">
@@ -105,46 +106,65 @@ function userpic($uid){
 	        <div class="clearfix"> </div>
 	    </div>
    </div>
-	   
    <div class="men">
+   		
    	<div class="container">
       <div class="col-md-9 single_top">
+	  <div class="dreamcrub">
+			   	<ul class="breadcrumbs">
+                    <li class="home">
+                       <a href="shop.php" title="Go to Home Page">Shop</a>&nbsp;
+                       <span>&gt;</span>
+                    </li>
+                    <li class="home">&nbsp;
+                       ALL GAME&nbsp;
+                    </li>
+                </ul>
+             
+                <div class="clearfix"></div>
+			   </div>
       	<div class="single_left">
       	  <div class="labout span_1_of_a1">
 			<ul id="etalage">
+			
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="airmech/air1.png" class="img-responsive" />
-									<img class="etalage_source_image" src="airmech/air1.png" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="images/h1.jpg" class="img-responsive" />
+									<img class="etalage_source_image" src="images/h1.jpg"class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="airmech/air2.png" class="img-responsive" />
-								<img class="etalage_source_image" src="airmech/air2.png" class="img-responsive" title="" />
+								<img class="etalage_thumb_image" src="images/h2.jpg"class="img-responsive" />
+								<img class="etalage_source_image" src="images/h2.jpg"" class="img-responsive" title="" />
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="airmech/air3.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="airmech/air3.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="images/h3.jpg"class="img-responsive"  />
+								<img class="etalage_source_image" src="images/h3.jpg"class="img-responsive"  />
 							</li>
 						    <li>
-								<img class="etalage_thumb_image" src="airmech/air4.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="airmech/air4.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="images/h4.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="images/h4.jpg"class="img-responsive"  />
+							</li>
+							  <li>
+								<img class="etalage_thumb_image" src="images/h5.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="images/h5.jpg"class="img-responsive"  />
 							</li>
 			 </ul>
 		     <div class="clearfix"></div>	
 	    </div>
+		
 		<div class="cont1 span_2_of_a1">
-				<h1>Airmech</h1>
+				<h1>H1Z1 : Just Survive</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
-				  <span class="actual">$16.00</span><a href="#">click for offer</a>
+				  <span class="actual">$15.99</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit</p>
+				<p class="quick_desc"> In H1Z1: Just Survive, you’ll have to be cutthroat, resourceful, and alert to protect yourself from zombies, beasts, and the deadliest threat of all – your fellow humans.</p>
 			    <div class="wish-list">
 				 	<ul>
-				 	    <li class="compare"><a href="https://youtu.be/lhpYR-iBvPU">Gameplay</a></li>
+				 	    <li class="compare"><a href="http://cdn.akamai.steamstatic.com/steam/apps/256660783/movie480.webm?t=1455775860">Gameplay</a></li>
 				 	</ul>
 				 </div>
 				
@@ -184,11 +204,9 @@ function userpic($uid){
 							    <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 									<div class="facts">
 									  <ul class="tab_list">
-									  	<li>AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit, or grab the stick and pilot your AirMech directly. Play Solo, Co-Op, or PVP with dozens of 'Mechs, customizable armies, and unlockable vanity items. </li>
-									  	<li>Every map is a new challenge, whether running missions to unlock new 'Mechs, or battling your friends. Capture bases to take more ground. Build tanks, turrets, and soldiers then grab and deploy them with cutting edge hand controls that make RTS gameplay smoother than ever. With Vive room-space, you're right in the middle of the action.</li>
-									 <h2><li> Key Features:</h2>
-									  	<li>Unlock more than 50 unique AirMechs, each with flight and ground combat modesToggle between tactical strategy controls and ground-level flight controls instantly Solo, PVP, and Co-Op play on any map Room space and hand-controlled camera controls make put you in command Customize your army loadout with dozens of different tanks, jeeps, turrets, soldiers, fliers and boosts</li>
-									  </ul>           
+										<li>In H1Z1: Just Survive, the H1Z1 zombie virus has crippled civilization. Corrupted by the need to survive, gone are the comforts of society as a new normal permeates the world. You are one of the last remaining humans. Every choice matters, every moment is borrowed time, and every breath could be your last. If you don’t want to join the dead -- or the undead -- you’ll have to be cutthroat, resourceful, and alert at all times. Scavenge, craft, and build to protect yourself from zombies, roaming beasts, and perhaps the deadliest threat of all – fellow humans. Do you have what it takes to Just Survive?</li>
+										
+									          
 							        </div>
 							     </div>	
 							      <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
@@ -199,21 +217,18 @@ function userpic($uid){
 									  	 <th>MINIMUM:</th>
     <th>RECOMMENDED:</th>
   </tr>
-  <tr>
-    <td>OS: Windows 7 64-bit<br>
-Processor: i5 or better<br>
+  <tr><td>OS:Windows 7, 8, 8.1, 10 (64 bit only)<br>
+Processor:: Intel i3 Dual-Core with Hyper-Threading (required) <br>
+Memory: 4 GB RAM<br>
+Graphics: nVidia GeForce GTX 275 series or higher / AMD Radeon HD 4870 X2 series or higher	<br>
+Hard Drive:16 GB HD space<br>
+Sound Card: DirectX compatible sound card<br></td>
+    <td>OS:Windows 7, 8, 8.1, 10 (64 bit only)<br>
+Processor:Intel i5 Quad Core or higher / AMD Phenom II X6 or higher<br>
 Memory: 8 GB RAM<br>
-Graphics: Nvidia GTX970<br>
-DirectX: Version 11<br>
-Network: Broadband Internet connection<br>
-Storage: 2 GB available space<br></td>
-    <td>OS: Windows 10 64-bit<br>
-Processor: i7 or better<br>
-Memory: 16 GB RAM<br>
-Graphics: Nvidia GTX 1070<br>
-DirectX: Version 11<br>
-Network: Broadband Internet connection<br>
-Storage: 5 GB available space<br></td>
+Graphics:nVidia GeForce GTX 960 series or higher / AMD Radeon R9 280X series or higher<br> 
+Hard Drive:16 GB HD space<br>
+Sound Card: DirectX compatible sound card<br></td>
   </tr>
 </table>
 </ul>
@@ -225,7 +240,7 @@ Storage: 5 GB available space<br></td>
 						   <?php panel_include($title,"main_body.php" ,"primary"); ?>
 						   
 						   <?php panel_include("User","work8_user.php"); ?>
-						   </div>
+						   </div>	
 									  </ul>      
 							     </div>	
 							 </div>
@@ -297,9 +312,6 @@ Storage: 5 GB available space<br></td>
 			<li><a href=""><i class="tw"> </i> </a></li>
 	    </ul>
 	    <div class="clearfix"> </div>
-	    <div class="copy">
-           <p>&copy; Template by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
-	    </div>
    	</div>
    </div>
 </body>

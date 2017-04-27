@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <?php
  $appid = "web592group21.appspot.com";
  $page = $_GET['p'];
@@ -29,7 +29,7 @@ function userpic($uid){
 ?>
 <html>
 <head>
-<title>AirMech : Gameshop</title>
+<title>Football Manager 2017: Gameshop</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -75,13 +75,14 @@ function userpic($uid){
             </script>	
 </head>
 <body>
-		<div class="men_banner">
+
+	<div class="men_banner">
    	  <div class="container">
    		<div class="logo">
 			<a href="main.php"><img src="images/ss.png" alt=""/></a>
 		</div>
 	  
-	    <div class="menu">
+	<div class="menu">
 	     <ul class="megamenu skyblue">
 			<li><a class="color2" href="shop.html">Shop</a>
 		<div class="megapanel">
@@ -105,46 +106,66 @@ function userpic($uid){
 	        <div class="clearfix"> </div>
 	    </div>
    </div>
-	   
    <div class="men">
+   		
    	<div class="container">
       <div class="col-md-9 single_top">
+	  <div class="dreamcrub">
+			   	<ul class="breadcrumbs">
+                    <li class="home">
+                       <a href="shop.php" title="Go to Home Page">Shop</a>&nbsp;
+                       <span>&gt;</span>
+                    </li>
+                    <li class="home">&nbsp;
+                       ALL GAME&nbsp;
+                    </li>
+                </ul>
+             
+                <div class="clearfix"></div>
+			   </div>
       	<div class="single_left">
       	  <div class="labout span_1_of_a1">
 			<ul id="etalage">
+			
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="airmech/air1.png" class="img-responsive" />
-									<img class="etalage_source_image" src="airmech/air1.png" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="cal/c9.jpg" class="img-responsive" />
+									<img class="etalage_source_image" src="cal/c9.jpg" class="img-responsive" title="" />
 								</a>
 							</li>
-							<li>
-								<img class="etalage_thumb_image" src="airmech/air2.png" class="img-responsive" />
-								<img class="etalage_source_image" src="airmech/air2.png" class="img-responsive" title="" />
+							<li><a href="optionallink.html">
+								<img class="etalage_thumb_image" src="cal/c1.jpg" class="img-responsive" />
+								<img class="etalage_source_image" src="cal/c1.jpg"class="img-responsive" title="" /></a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="airmech/air3.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="airmech/air3.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="cal/ca2.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="cal/ca2.jpg"class="img-responsive"  />
 							</li>
 						    <li>
-								<img class="etalage_thumb_image" src="airmech/air4.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="airmech/air4.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="cal/c3.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="cal/c3.jpg"class="img-responsive"  />
 							</li>
+							<li>
+								<img class="etalage_thumb_image" src="cal/c4.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="cal/c4.jpg"class="img-responsive"  />
+							</li>
+							
 			 </ul>
 		     <div class="clearfix"></div>	
 	    </div>
+		
 		<div class="cont1 span_2_of_a1">
-				<h1>Airmech</h1>
+				<h1>Call of Duty®: Modern Warfare® 2</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
-				  <span class="actual">$16.00</span><a href="#">click for offer</a>
+				  <span class="actual">$29.99</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit</p>
+				<p class="quick_desc"> The year is 1715. Pirates rule the Caribbean and have established their own lawless Republic where corruption, greediness and cruelty are commonplace.</p>
 			    <div class="wish-list">
 				 	<ul>
-				 	    <li class="compare"><a href="https://youtu.be/lhpYR-iBvPU">Gameplay</a></li>
+				 	    <li class="compare"><a href="http://cdn.edgecast.steamstatic.com/steam/apps/5470/movie480.webm?t=1447352648">Gameplay</a></li>
 				 	</ul>
 				 </div>
 				
@@ -184,10 +205,12 @@ function userpic($uid){
 							    <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
 									<div class="facts">
 									  <ul class="tab_list">
-									  	<li>AirMech Command is the definitive Action/RTS experience in VR. With all new tactical room-space controls AND ground-level flight controls, you can command troops and units from orbit, or grab the stick and pilot your AirMech directly. Play Solo, Co-Op, or PVP with dozens of 'Mechs, customizable armies, and unlockable vanity items. </li>
-									  	<li>Every map is a new challenge, whether running missions to unlock new 'Mechs, or battling your friends. Capture bases to take more ground. Build tanks, turrets, and soldiers then grab and deploy them with cutting edge hand controls that make RTS gameplay smoother than ever. With Vive room-space, you're right in the middle of the action.</li>
-									 <h2><li> Key Features:</h2>
-									  	<li>Unlock more than 50 unique AirMechs, each with flight and ground combat modesToggle between tactical strategy controls and ground-level flight controls instantly Solo, PVP, and Co-Op play on any map Room space and hand-controlled camera controls make put you in command Customize your army loadout with dozens of different tanks, jeeps, turrets, soldiers, fliers and boosts</li>
+									  <h3>Key Features</h3>
+									  <ul>
+										<li>A BRASH REBEL ASSASSIN Become Edward Kenway, a charismatic yet brutal pirate captain, trained by Assassins. Edward can effortlessly switch between the Hidden Blade of the Assassin’s Order and all new weaponry including four flintlock pistols and dual cutlass swords.</li><li>EXPLORE AN OPEN WORLD FILLED WITH OPPORTUNITIES Discover the largest and most diverse Assassin’s Creed world ever created. From Kingston to Nassau, explore over 75 unique locations where you can live the life of a pirate including: </li>
+										<ul>
+										<li>Loot underwater shipwrecks
+										
 									  </ul>           
 							        </div>
 							     </div>	
@@ -199,21 +222,18 @@ function userpic($uid){
 									  	 <th>MINIMUM:</th>
     <th>RECOMMENDED:</th>
   </tr>
-  <tr>
-    <td>OS: Windows 7 64-bit<br>
-Processor: i5 or better<br>
-Memory: 8 GB RAM<br>
-Graphics: Nvidia GTX970<br>
-DirectX: Version 11<br>
-Network: Broadband Internet connection<br>
-Storage: 2 GB available space<br></td>
-    <td>OS: Windows 10 64-bit<br>
-Processor: i7 or better<br>
-Memory: 16 GB RAM<br>
-Graphics: Nvidia GTX 1070<br>
-DirectX: Version 11<br>
-Network: Broadband Internet connection<br>
-Storage: 5 GB available space<br></td>
+  <tr><td>OS: Windows Vista SP2 or Windows 7 SP1 or Windows 8<br>
+ Intel Core2Quad Q8400 @ 2.6 GHz or AMD Athlon II X4 620 @ 2.6 GHz<br>
+Memory: 2 GB RAM<br>
+Nvidia Geforce GTX 260 or AMD Radeon HD 4870 (512MB VRAM with shader Model 4.0 or higher)<br>
+Storage: 30 GB available space<br>
+Sound Card: DirectX compatible sound card<br></td>
+    <td>Windows Vista SP2 or Windows 7 SP1 or Windows 8<br>
+Intel Core i5 2400S @ 2.5 GHz or better or AMD Phenom II x4 940 @ 3.0 GHz<br>
+Memory: 4 GB RAM<br>
+Nvidia GeForce GTX 470 or AMD Radeon HD 5850 <br> 
+Storage: 30 GB available space<br>
+Sound Card: DirectX compatible sound card<br></td>
   </tr>
 </table>
 </ul>
@@ -221,11 +241,12 @@ Storage: 5 GB available space<br></td>
 							     </div>	
 							      <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 									<ul class="tab_list">
-	<div class="container" style=>
+									<div class="container" style=>
 						   <?php panel_include($title,"main_body.php" ,"primary"); ?>
 						   
 						   <?php panel_include("User","work8_user.php"); ?>
 						   </div>
+	
 									  </ul>      
 							     </div>	
 							 </div>
@@ -247,7 +268,7 @@ Storage: 5 GB available space<br></td>
 	      <ul class="product">
 	      	<li class="product_img"><img src="images/H1.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="h1.php">H1Z1</a></h4>
+	      		<h4><a href="h1">H1Z1</a></h4>
 	      		<p class="single_price">$18</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	      	    
@@ -264,15 +285,13 @@ Storage: 5 GB available space<br></td>
 	        </li>
 	      	<div class="clearfix"> </div>
 	      </ul>
-	     <ul class="product">
+	      <ul class="product">
 	      	<li class="product_img"><img src="ac/ac.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
 	      		<h4><a href="ac.php">Assassin’s Creed® IV Black Flag™</a></h4>
 	      		<p class="single_price">$29.99</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	        </li>
-	      	<div class="clearfix"> </div>
-	      </ul>
 	      	<div class="clearfix"> </div>
 	      </ul>
         </div>
@@ -297,9 +316,6 @@ Storage: 5 GB available space<br></td>
 			<li><a href=""><i class="tw"> </i> </a></li>
 	    </ul>
 	    <div class="clearfix"> </div>
-	    <div class="copy">
-           <p>&copy; Template by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
-	    </div>
    	</div>
    </div>
 </body>

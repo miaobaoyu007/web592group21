@@ -1,7 +1,35 @@
-﻿<!DOCTYPE HTML>
+﻿<!doctype html>
+<?php
+ $appid = "web592group21.appspot.com";
+ //$page = $_GET['p'];
+ if($page=='') $page='main';
+ $title = $page;
+ function panel_include($title,$file,$ptype='default'){
+	 
+echo "<div class='panel panel-danger'>";
+echo "<div class='panel-heading'>$title</div>";
+echo "<div class='panel-body'>";
+if(file_exists($file)){
+ include($file);
+}else{
+ echo "ไม่พบไฟล์ $file ";
+}
+echo "</div>";
+echo "</div>";
+ }
+ use google\appengine\api\cloud_storage\CloudStorageTools;
+function userpic($uid){
+ global $appid;
+ $userpic="gs://$appid/{$uid}.jpg";
+ if(!file_exists($userpic)){
+ return "user.png";
+ }
+ return CloudStorageTools::getImageServingUrl($userpic,["size"=>200]);
+}
+?>
 <html>
 <head>
-<title>Football Manager 2017: Gameshop</title>
+<title>ASSASSIN’S CREED® IV BLACK FLAG™: Gameshop</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -54,7 +82,7 @@
 			<a href="main.php"><img src="images/ss.png" alt=""/></a>
 		</div>
 	  
-	<div class="menu">
+  <div class="menu">
 	     <ul class="megamenu skyblue">
 			<li><a class="color2" href="shop.html">Shop</a>
 		<div class="megapanel">
@@ -220,7 +248,11 @@ Sound Card: DirectX compatible sound card<br></td>
 							     </div>	
 							      <div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
 									<ul class="tab_list">
-	
+	<div class="container" style=>
+						   <?php panel_include($title,"main_body.php" ,"primary"); ?>
+						   
+						   <?php panel_include("User","work8_user.php"); ?>
+						   </div>
 									  </ul>      
 							     </div>	
 							 </div>
@@ -232,7 +264,7 @@ Sound Card: DirectX compatible sound card<br></td>
 	      <ul class="product">
 	      	<li class="product_img"><img src="images/saint.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">SaintRow4</a></h4>
+	      		<h4><a href="saint.php">SaintRow4</a></h4>
 	      		<p class="single_price">$30</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	      	    
@@ -242,7 +274,7 @@ Sound Card: DirectX compatible sound card<br></td>
 	      <ul class="product">
 	      	<li class="product_img"><img src="images/H1.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">H1Z1</a></h4>
+	      		<h4><a href="h1.php">H1Z1</a></h4>
 	      		<p class="single_price">$18</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	      	    
@@ -252,21 +284,22 @@ Sound Card: DirectX compatible sound card<br></td>
 	      <ul class="product">
 	      	<li class="product_img"><img src="images/how.png" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">How to Survive</a></h4>
+	      		<h4><a href="how.php">How to Survive</a></h4>
 	      		<p class="single_price">$15.99</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	      	    
 	        </li>
 	      	<div class="clearfix"> </div>
 	      </ul>
-	      <ul class="product">
-	      	<li class="product_img"><img src="images/m3.jpg" class="img-responsive" alt=""/></li>
+	     <ul class="product">
+	      	<li class="product_img"><img src="ac/ac.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="#">quod mazim</a></h4>
-	      		<p class="single_price">$66.30</p>
+	      		<h4><a href="ac.php">Assassin’s Creed® IV Black Flag™</a></h4>
+	      		<p class="single_price">$29.99</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
-	      	    <a href="#" class="link-cart">Add to Cart</a>
 	        </li>
+	      	<div class="clearfix"> </div>
+	      </ul>
 	      	<div class="clearfix"> </div>
 	      </ul>
         </div>
