@@ -140,11 +140,11 @@ function userpic($uid){
 	    </div>
 		
 		<div class="cont1 span_2_of_a1">
-				<h1>Batman™: Arkham Knight</h1>
+				<h1>Ultimate Epic Battle Simulator</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
-				  <span class="actual">$29.99</span><a href="#">click for offer</a>
+				  <span class="actual">$25.49</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
 				<p class="quick_desc"> Here is a sandbox like no other. Create massive battles with absolutely no limits.</p>
