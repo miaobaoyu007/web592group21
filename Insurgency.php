@@ -101,13 +101,13 @@
 			
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="img/kill.jpg" class="img-responsive" />
-									<img class="etalage_source_image" src="img/kill2.jpg" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="img/ins.jpg" class="img-responsive" />
+									<img class="etalage_source_image" src="img/ins2.jpg" class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="img/kill3.jpg" class="img-responsive" />
-								<img class="etalage_source_image" src="img/kill4.jpg"" class="img-responsive" title="" />
+								<img class="etalage_thumb_image" src="img/ins3.jpg" class="img-responsive" />
+								<img class="etalage_source_image" src="img/ins4.jpg"" class="img-responsive" title="" />
 							</li>
 						
 							
