@@ -130,12 +130,12 @@ function userpic($uid){
 							<li>
 								<a href="optionallink.html">
 									<img class="etalage_thumb_image" src="img/bman.jpg" class="img-responsive" />
-									<img class="etalage_source_image" src="sa/s1.jpg" class="img-responsive" title="" />
+									<img class="etalage_source_image" src="img/bman.jpg" class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
 								<img class="etalage_thumb_image" src="img/bman2.jpg" class="img-responsive" />
-								<img class="etalage_source_image" src="sa/s2.jpg"" class="img-responsive" title="" />
+								<img class="etalage_source_image" src="img/bman2.jpg"" class="img-responsive" title="" />
 							</li>
 						
 							
