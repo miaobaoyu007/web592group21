@@ -115,21 +115,21 @@ function userpic($uid){
 			<ul id="etalage">
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="img/AGE.png" class="img-responsive" />
-									<img class="etalage_source_image" src="img/AGE.png" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="img/AGE.jpg" class="img-responsive" />
+									<img class="etalage_source_image" src="img/AGE.jpg" class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="img/AGE1.png" class="img-responsive" />
-								<img class="etalage_source_image" src="img/AGE1.png" class="img-responsive" title="" />
+								<img class="etalage_thumb_image" src="img/AGE1.jpg" class="img-responsive" />
+								<img class="etalage_source_image" src="img/AGE1.jpg" class="img-responsive" title="" />
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="img/AGE2.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="img/AGE2.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="img/AGE2.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="img/AGE2.jpg"class="img-responsive"  />
 							</li>
 						    <li>
-								<img class="etalage_thumb_image" src="img/AGE3.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="img/AGE3.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="img/AGE3.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="img/AGE3.jpg"class="img-responsive"  />
 							</li>
 			 </ul>
 		     <div class="clearfix"></div>	
