@@ -1,4 +1,4 @@
-﻿<!doctype html>
+ï»¿<!doctype html>
 <?php
  $appid = "web592group21.appspot.com";
  $page = $_GET['p'];
@@ -12,7 +12,7 @@ echo "<div class='panel-body'>";
 if(file_exists($file)){
  include($file);
 }else{
- echo "ไม่พบไฟล์ $file ";
+ echo "à¹„à¸¡à¹ˆà¸žà¸šà¹„à¸Ÿà¸¥à¹Œ $file ";
 }
 echo "</div>";
 echo "</div>";
@@ -115,21 +115,21 @@ function userpic($uid){
 			<ul id="etalage">
 							<li>
 								<a href="optionallink.html">
-									<img class="etalage_thumb_image" src="img/GOT.png" class="img-responsive" />
-									<img class="etalage_source_image" src="img/GOT.png" class="img-responsive" title="" />
+									<img class="etalage_thumb_image" src="img/GOT.jpg" class="img-responsive" />
+									<img class="etalage_source_image" src="img/GOT.jpg" class="img-responsive" title="" />
 								</a>
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="img/GOT1.png" class="img-responsive" />
-								<img class="etalage_source_image" src="img/GOT1.png" class="img-responsive" title="" />
+								<img class="etalage_thumb_image" src="img/GOT1.jpg" class="img-responsive" />
+								<img class="etalage_source_image" src="img/GOT1.jpg" class="img-responsive" title="" />
 							</li>
 							<li>
-								<img class="etalage_thumb_image" src="img/GOT2.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="img/GOT2.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="img/GOT2.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="img/GOT2.jpg"class="img-responsive"  />
 							</li>
 						    <li>
-								<img class="etalage_thumb_image" src="img/GOT3.png" class="img-responsive"  />
-								<img class="etalage_source_image" src="img/GOT3.png"class="img-responsive"  />
+								<img class="etalage_thumb_image" src="img/GOT3.jpg" class="img-responsive"  />
+								<img class="etalage_source_image" src="img/GOT3.jpg"class="img-responsive"  />
 							</li>
 			 </ul>
 		     <div class="clearfix"></div>	
@@ -142,7 +142,7 @@ function userpic($uid){
 				  <span class="actual">$15.00</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshop’s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles. </p>
+				<p class="quick_desc"> Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshopâ€™s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles. </p>
 			    <div class="wish-list">
 				 	<ul>
 				 	    <li class="compare"><a href="http://store.steampowered.com/app/250400/">Gameplay</a></li>
@@ -186,7 +186,7 @@ function userpic($uid){
 									<div class="facts">
 									  <ul class="tab_list">
 									  	<li>You're shipwrecked on an isolated island, a desperate castaway in a total freakshow world. How will you survive? </li>
-									  	<li>Collect the pages of a Survival Guide and figure it out, of course! Find food, water, and shelter before you perish. Uh oh, is it getting dark? Figure out how to get through the night! While you�re at it, gather up some of this awesome stuff and piece together over 100 handmade weapons and tools�from shotguns to Molotov cocktails. Now you can defend yourself and your friends like a boss!</li>
+									  	<li>Collect the pages of a Survival Guide and figure it out, of course! Find food, water, and shelter before you perish. Uh oh, is it getting dark? Figure out how to get through the night! While you’re at it, gather up some of this awesome stuff and piece together over 100 handmade weapons and tools—from shotguns to Molotov cocktails. Now you can defend yourself and your friends like a boss!</li>
 									
 									  </ul>           
 							        </div>
@@ -262,7 +262,7 @@ Storage: 7 GB available space<br>
 	       <ul class="product">
 	      	<li class="product_img"><img src="ac/ac.jpg" class="img-responsive" alt=""/></li>
 	      	<li class="product_desc">
-	      		<h4><a href="ac.php">Assassin’s Creed® IV Black Flag™</a></h4>
+	      		<h4><a href="ac.php">Assassinâ€™s CreedÂ® IV Black Flagâ„¢</a></h4>
 	      		<p class="single_price">$29.99</p>
 	      		<a href="#" class="link-cart">Add to Wishlist</a>
 	        </li>
