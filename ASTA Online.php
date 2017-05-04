@@ -29,7 +29,7 @@ function userpic($uid){
 ?>
 <html>
 <head>
-<title>Battlefleet Gothic: Armada</title>
+<title>ASTA Online</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -162,16 +162,15 @@ function userpic($uid){
 	    </div>
 		
 		<div class="cont1 span_2_of_a1">
-				<h1>Battlefleet Gothic: Armada</h1>
+				<h1>ASTA Online</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
 				  <span class="actual">$29.99</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshop’s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles.
+				<p class="quick_desc">Among mysterious mythologies and legends stands ASTA. Based on an immeasurably massive fantasy world, ASTA will allow its players to immerse themselves into the vast world of mythical adventures and wars. With superb graphics and a diversity of fresh contents, you will experience the thrills of a new MMORPG that was never precedented.
 
-Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep management of every ship composing the player’s fleet, both during and between battles. From the fastest frigates to the gigantic, miles-long battleships, the player will customize all aspects of his ships: weaponry, defense and support sub-systems, but also crew, captains, and more... each customization affecting the very performances of the ship and the special abilities available during battle. From battle to battle, the admirals and crew of surviving ships will gain experience and promotions, improving the battle-readiness of the ships for future, bigger and more dangerous battles.
 </p>
 			    <div class="wish-list">
 				 	<ul>
@@ -233,9 +232,9 @@ Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep managemen
     <th>RECOMMENDED:</th>
   </tr>
   <tr><td>OS: Windows Vista (SP2), 7 (SP1), 8, 8.1, 10 (1607) – 64-bit or 32-bit<br>
-  Intel Pentium 4 1.5 GHz or Athlon XP 1500+<br>
-Memory: 1 GB RAM<br>
-  64MB 3d Graphics card with Vertex Shader and Pixel Shader (VS/PS) Capability<br>
+  Intel Pentium 4 3.2GHz<br>
+Memory: 4 GB RAM<br>
+ GeForce 9600GT / ATI Radeon HD 3800<br>
 Storage: 30 GB available space<br>
 Sound Card: DirectX compatible sound card<br></td>
   </tr>

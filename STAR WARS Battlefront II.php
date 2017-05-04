@@ -29,7 +29,7 @@ function userpic($uid){
 ?>
 <html>
 <head>
-<title>Battlefleet Gothic: Armada</title>
+<title>STAR WARS™ Battlefront™ II</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -162,16 +162,14 @@ function userpic($uid){
 	    </div>
 		
 		<div class="cont1 span_2_of_a1">
-				<h1>Battlefleet Gothic: Armada</h1>
+				<h1>STAR WARS™ Battlefront™ II</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
 				  <span class="actual">$29.99</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshop’s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles.
-
-Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep management of every ship composing the player’s fleet, both during and between battles. From the fastest frigates to the gigantic, miles-long battleships, the player will customize all aspects of his ships: weaponry, defense and support sub-systems, but also crew, captains, and more... each customization affecting the very performances of the ship and the special abilities available during battle. From battle to battle, the admirals and crew of surviving ships will gain experience and promotions, improving the battle-readiness of the ships for future, bigger and more dangerous battles.
+				<p class="quick_desc">With brand new space combat, playable Jedi characters, and over 16 all new battlefronts, Star Wars Battlefront II gives you more ways than ever before to play the classic Star Wars battles any way you want. 
 </p>
 			    <div class="wish-list">
 				 	<ul>
@@ -217,7 +215,7 @@ Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep managemen
 									  <ul class="tab_list">
 									  <h3>Key Features</h3>
 									  <ul>
-										<li> </li><li>The Game is multiplayer. Survival is entirely up to you, the player, as you either stealthily hide from Jason or work together as a team to escape or bring the fight to Jason. Playing as a counselor is all about risk and reward, giving players multiple means of triumph over Jason! Want to hide in the woods as you wait for the police? Perhaps you want to band together and try to take on Jason as a group? Maybe you and a friend decide to fix the boat on the lake and escape while leaving everyone else to their fate? There are endless opportunities to survive the night, but every choice has a consequence. </li>
+										<li> </li><li>The entire focus of Friday the 13th: The Game is multiplayer. Survival is entirely up to you, the player, as you either stealthily hide from Jason or work together as a team to escape or bring the fight to Jason. Playing as a counselor is all about risk and reward, giving players multiple means of triumph over Jason! Want to hide in the woods as you wait for the police? Perhaps you want to band together and try to take on Jason as a group? Maybe you and a friend decide to fix the boat on the lake and escape while leaving everyone else to their fate? There are endless opportunities to survive the night, but every choice has a consequence. </li>
 										<ul>
 										<li>Loot underwater shipwrecks
 										

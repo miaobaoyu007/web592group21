@@ -29,7 +29,7 @@ function userpic($uid){
 ?>
 <html>
 <head>
-<title>Battlefleet Gothic: Armada</title>
+<title>911 Operator</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <!-- Custom Theme files -->
@@ -162,16 +162,15 @@ function userpic($uid){
 	    </div>
 		
 		<div class="cont1 span_2_of_a1">
-				<h1>Battlefleet Gothic: Armada</h1>
+				<h1>911 Operator</h1>
 				<p class="availability">Availability: <span class="color">In stock</span></p>
 			    <div class="price_single">
 				  
 				  <span class="actual">$29.99</span><a href="#">click for offer</a>
 				</div>
 				<h2 class="quick">About :</h2>
-				<p class="quick_desc"> Battlefleet Gothic: Armada is the RTS videogame adaptation of Games Workshop’s classic tabletop game, pitting the Chaos, Imperium, Eldar, and Orks against each other in visceral space-battles.
+				<p class="quick_desc">In 911 OPERATOR, you take on the role of an emergency dispatcher, who has to rapidly deal with the incoming reports. Your task is not just to pick up the calls, but also to react appropriately to the situation – sometimes giving first aid instructions is enough, at other times a police, fire department or paramedics’ intervention is a necessity. Keep in mind, that the person on the other side of the line might turn out to be a dying daughter’s father, an unpredictable terrorist, or just a prankster. Can you handle all of this?
 
-Developed with Unreal Engine 4, Battlefleet Gothic: Armada offers deep management of every ship composing the player’s fleet, both during and between battles. From the fastest frigates to the gigantic, miles-long battleships, the player will customize all aspects of his ships: weaponry, defense and support sub-systems, but also crew, captains, and more... each customization affecting the very performances of the ship and the special abilities available during battle. From battle to battle, the admirals and crew of surviving ships will gain experience and promotions, improving the battle-readiness of the ships for future, bigger and more dangerous battles.
 </p>
 			    <div class="wish-list">
 				 	<ul>
